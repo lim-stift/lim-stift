@@ -1,4 +1,4 @@
 - @lim-stift
-- Likes energy system optimization, from cradle to operation
+- Likes energy system optimization, from cradle to operation and retrofitting
 - Tries to code but sucks
 - Cannot be reached
