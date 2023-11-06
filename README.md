@@ -1,0 +1,4 @@
+- @lim-stift
+- Likes energy system optimization, from cradle to operation
+- Tries to code but sucks
+- Cannot be reached
